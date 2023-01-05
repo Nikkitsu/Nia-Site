@@ -1,0 +1,15 @@
+3 item menu on top, on mobile make it appear on the bottom like an app, with icons
+
+Home should be a single column page
+Mobile layout:
+     the navbar should become anchored to the bottom and follow the user as they scroll
+    [position: fixed] the image at the top and put it behind the rest of the content at the bottom
+
+Lore page should single column for general lore, side navigation for additional lore entries
+Lore entries added in a blog format
+
+For the stories you could have a side bar for navigation + On mobile make it a collapsable menu
+
+fonts- 
+    Header: Forte MT Std
+    Article: Cambria
